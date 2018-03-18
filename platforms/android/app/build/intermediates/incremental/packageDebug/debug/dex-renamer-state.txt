@@ -1,0 +1,4 @@
+#Sat Mar 17 23:48:16 BRT 2018
+base.0=/home/monde/Documentos/CordovaProject/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/home/monde/Documentos/CordovaProject/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
